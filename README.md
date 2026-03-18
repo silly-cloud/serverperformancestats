@@ -62,6 +62,9 @@ Free: 55G
 
 Linux with standard utilities: `bash`, `grep`, `awk`, `free`, `df`, `ps`, `uptime`, `nproc`
 
+## Project
+https://roadmap.sh/projects/server-stats
+
 ## License
 
 MIT
